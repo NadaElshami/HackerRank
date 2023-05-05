@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1683276591 source:c:\users\allah\downloads\codeblocks\task1_hackerrank\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
